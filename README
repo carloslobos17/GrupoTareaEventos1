@@ -1,4 +1,4 @@
-Crear un programa que ayude a calcular el área y perímetro de un triángulo y un octógono. Para resolver el ejercicio debe usar clases y objetos.| ---------> Carlos Lobos
+Crear un programa que ayude a calcular el área y perímetro de un triángulo y un octógono. Para resolver el ejercicio debe usar clases y objetos.| ---------> Carlos Lobos U20220190
 Crear un formulario que permita determinar si un número ingresado por el usuario es un número primo. |
 
 
@@ -11,3 +11,16 @@ para el mensaje puede mostrarlo en un MessageBox o en un Label. Debe usar evento
 
 Crear un programa que permita contar en tiempo real la cantidad de "a" ingresadas por el usuario     | ----> Diego Humberto
 Crear un programa que permita convertir de grados celsius a grados fahrenheit y viceversa. Use POO.  |
+
+Criterios de Evaluación
+-El programa debe realizar correctamente lo que se indicó en el ejercicio.
+-El código debe ser un código ordenado y con buenas prácticas.
+-Se evaluará el uso correcto de los distintos eventos como: eventos de mouse, click, etc.
+-Debe tener validaciones y excepciones para asegurarse que funcione correctamente.
+-Se evaluará puntualidad en la entrega. Si se entrega después del tiempo estimulado recibirá una sanción de puntos menos en su calificación.
+-Agregar un archivo de texto con los nombres completos de los integrantes del grupo y su carnet de estudiante.
+-Dentro del archivo de texto agregar el enlace del repositorio de GitHub
+-Cada integrante del grupo debe realizar los respectivos commits del ejercicio que realizaron como prueba del trabajo realizado
+-El README del repositorio debe reflejar la división de ejercicios por estudiante
+-La tarea se subirá al campus virtual en formato ZIP
+Fecha de entrega: 16/08/2024
