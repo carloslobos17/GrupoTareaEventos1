@@ -1,0 +1,9 @@
+MessageBox.Show($"El resultado de la división es {total}");
+            else if (!int.TryParse(numberTextBox.Text, out int numero))
+            {
+               
+                errorProvider.SetError(numberTextBox, "Inserte un numero valido");
+                resultsLabel.Text = "Inserte un numero valido";
+                numberTextBox.Focus();
+                }
+(!int.TryParse(numberTextBox.Text, out int numero))

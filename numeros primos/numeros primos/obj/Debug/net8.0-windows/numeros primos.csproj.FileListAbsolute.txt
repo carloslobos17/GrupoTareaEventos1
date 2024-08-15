@@ -1,0 +1,16 @@
+C:\Users\Jane\source\repos\numeros primos\numeros primos\bin\Debug\net8.0-windows\numeros primos.exe
+C:\Users\Jane\source\repos\numeros primos\numeros primos\bin\Debug\net8.0-windows\numeros primos.deps.json
+C:\Users\Jane\source\repos\numeros primos\numeros primos\bin\Debug\net8.0-windows\numeros primos.runtimeconfig.json
+C:\Users\Jane\source\repos\numeros primos\numeros primos\bin\Debug\net8.0-windows\numeros primos.dll
+C:\Users\Jane\source\repos\numeros primos\numeros primos\bin\Debug\net8.0-windows\numeros primos.pdb
+C:\Users\Jane\source\repos\numeros primos\numeros primos\obj\Debug\net8.0-windows\numeros_primos.Form1.resources
+C:\Users\Jane\source\repos\numeros primos\numeros primos\obj\Debug\net8.0-windows\numeros primos.csproj.GenerateResource.cache
+C:\Users\Jane\source\repos\numeros primos\numeros primos\obj\Debug\net8.0-windows\numeros primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jane\source\repos\numeros primos\numeros primos\obj\Debug\net8.0-windows\numeros primos.AssemblyInfoInputs.cache
+C:\Users\Jane\source\repos\numeros primos\numeros primos\obj\Debug\net8.0-windows\numeros primos.AssemblyInfo.cs
+C:\Users\Jane\source\repos\numeros primos\numeros primos\obj\Debug\net8.0-windows\numeros primos.csproj.CoreCompileInputs.cache
+C:\Users\Jane\source\repos\numeros primos\numeros primos\obj\Debug\net8.0-windows\numeros primos.dll
+C:\Users\Jane\source\repos\numeros primos\numeros primos\obj\Debug\net8.0-windows\refint\numeros primos.dll
+C:\Users\Jane\source\repos\numeros primos\numeros primos\obj\Debug\net8.0-windows\numeros primos.pdb
+C:\Users\Jane\source\repos\numeros primos\numeros primos\obj\Debug\net8.0-windows\numeros primos.genruntimeconfig.cache
+C:\Users\Jane\source\repos\numeros primos\numeros primos\obj\Debug\net8.0-windows\ref\numeros primos.dll
