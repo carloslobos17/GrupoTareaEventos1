@@ -1,0 +1,16 @@
+C:\Users\david\source\repos\teclaforms\teclaforms\bin\Debug\net8.0-windows\teclaforms.exe
+C:\Users\david\source\repos\teclaforms\teclaforms\bin\Debug\net8.0-windows\teclaforms.deps.json
+C:\Users\david\source\repos\teclaforms\teclaforms\bin\Debug\net8.0-windows\teclaforms.runtimeconfig.json
+C:\Users\david\source\repos\teclaforms\teclaforms\bin\Debug\net8.0-windows\teclaforms.dll
+C:\Users\david\source\repos\teclaforms\teclaforms\bin\Debug\net8.0-windows\teclaforms.pdb
+C:\Users\david\source\repos\teclaforms\teclaforms\obj\Debug\net8.0-windows\teclaforms.forms.teclaForm1.resources
+C:\Users\david\source\repos\teclaforms\teclaforms\obj\Debug\net8.0-windows\teclaforms.csproj.GenerateResource.cache
+C:\Users\david\source\repos\teclaforms\teclaforms\obj\Debug\net8.0-windows\teclaforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\teclaforms\teclaforms\obj\Debug\net8.0-windows\teclaforms.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\teclaforms\teclaforms\obj\Debug\net8.0-windows\teclaforms.AssemblyInfo.cs
+C:\Users\david\source\repos\teclaforms\teclaforms\obj\Debug\net8.0-windows\teclaforms.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\teclaforms\teclaforms\obj\Debug\net8.0-windows\teclaforms.dll
+C:\Users\david\source\repos\teclaforms\teclaforms\obj\Debug\net8.0-windows\refint\teclaforms.dll
+C:\Users\david\source\repos\teclaforms\teclaforms\obj\Debug\net8.0-windows\teclaforms.pdb
+C:\Users\david\source\repos\teclaforms\teclaforms\obj\Debug\net8.0-windows\teclaforms.genruntimeconfig.cache
+C:\Users\david\source\repos\teclaforms\teclaforms\obj\Debug\net8.0-windows\ref\teclaforms.dll
