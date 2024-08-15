@@ -1,0 +1,16 @@
+C:\Users\david\source\repos\mauseforms\mauseforms\bin\Debug\net8.0-windows\mauseforms.exe
+C:\Users\david\source\repos\mauseforms\mauseforms\bin\Debug\net8.0-windows\mauseforms.deps.json
+C:\Users\david\source\repos\mauseforms\mauseforms\bin\Debug\net8.0-windows\mauseforms.runtimeconfig.json
+C:\Users\david\source\repos\mauseforms\mauseforms\bin\Debug\net8.0-windows\mauseforms.dll
+C:\Users\david\source\repos\mauseforms\mauseforms\bin\Debug\net8.0-windows\mauseforms.pdb
+C:\Users\david\source\repos\mauseforms\mauseforms\obj\Debug\net8.0-windows\mauseforms.forms.mauseForm1.resources
+C:\Users\david\source\repos\mauseforms\mauseforms\obj\Debug\net8.0-windows\mauseforms.csproj.GenerateResource.cache
+C:\Users\david\source\repos\mauseforms\mauseforms\obj\Debug\net8.0-windows\mauseforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\mauseforms\mauseforms\obj\Debug\net8.0-windows\mauseforms.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\mauseforms\mauseforms\obj\Debug\net8.0-windows\mauseforms.AssemblyInfo.cs
+C:\Users\david\source\repos\mauseforms\mauseforms\obj\Debug\net8.0-windows\mauseforms.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\mauseforms\mauseforms\obj\Debug\net8.0-windows\mauseforms.dll
+C:\Users\david\source\repos\mauseforms\mauseforms\obj\Debug\net8.0-windows\refint\mauseforms.dll
+C:\Users\david\source\repos\mauseforms\mauseforms\obj\Debug\net8.0-windows\mauseforms.pdb
+C:\Users\david\source\repos\mauseforms\mauseforms\obj\Debug\net8.0-windows\mauseforms.genruntimeconfig.cache
+C:\Users\david\source\repos\mauseforms\mauseforms\obj\Debug\net8.0-windows\ref\mauseforms.dll
