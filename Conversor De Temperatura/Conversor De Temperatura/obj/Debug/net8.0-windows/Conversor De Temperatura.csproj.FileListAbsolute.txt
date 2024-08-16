@@ -1,0 +1,16 @@
+C:\Users\ningu\source\repos\Conversor De Temperatura\Conversor De Temperatura\bin\Debug\net8.0-windows\Conversor De Temperatura.exe
+C:\Users\ningu\source\repos\Conversor De Temperatura\Conversor De Temperatura\bin\Debug\net8.0-windows\Conversor De Temperatura.deps.json
+C:\Users\ningu\source\repos\Conversor De Temperatura\Conversor De Temperatura\bin\Debug\net8.0-windows\Conversor De Temperatura.runtimeconfig.json
+C:\Users\ningu\source\repos\Conversor De Temperatura\Conversor De Temperatura\bin\Debug\net8.0-windows\Conversor De Temperatura.dll
+C:\Users\ningu\source\repos\Conversor De Temperatura\Conversor De Temperatura\bin\Debug\net8.0-windows\Conversor De Temperatura.pdb
+C:\Users\ningu\source\repos\Conversor De Temperatura\Conversor De Temperatura\obj\Debug\net8.0-windows\Conversor_De_Temperatura.Form1.resources
+C:\Users\ningu\source\repos\Conversor De Temperatura\Conversor De Temperatura\obj\Debug\net8.0-windows\Conversor De Temperatura.csproj.GenerateResource.cache
+C:\Users\ningu\source\repos\Conversor De Temperatura\Conversor De Temperatura\obj\Debug\net8.0-windows\Conversor De Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ningu\source\repos\Conversor De Temperatura\Conversor De Temperatura\obj\Debug\net8.0-windows\Conversor De Temperatura.AssemblyInfoInputs.cache
+C:\Users\ningu\source\repos\Conversor De Temperatura\Conversor De Temperatura\obj\Debug\net8.0-windows\Conversor De Temperatura.AssemblyInfo.cs
+C:\Users\ningu\source\repos\Conversor De Temperatura\Conversor De Temperatura\obj\Debug\net8.0-windows\Conversor De Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\ningu\source\repos\Conversor De Temperatura\Conversor De Temperatura\obj\Debug\net8.0-windows\Conversor De Temperatura.dll
+C:\Users\ningu\source\repos\Conversor De Temperatura\Conversor De Temperatura\obj\Debug\net8.0-windows\refint\Conversor De Temperatura.dll
+C:\Users\ningu\source\repos\Conversor De Temperatura\Conversor De Temperatura\obj\Debug\net8.0-windows\Conversor De Temperatura.pdb
+C:\Users\ningu\source\repos\Conversor De Temperatura\Conversor De Temperatura\obj\Debug\net8.0-windows\Conversor De Temperatura.genruntimeconfig.cache
+C:\Users\ningu\source\repos\Conversor De Temperatura\Conversor De Temperatura\obj\Debug\net8.0-windows\ref\Conversor De Temperatura.dll

@@ -1,0 +1,16 @@
+C:\Users\ningu\source\repos\ContadorLetraA\ContadorLetraA\bin\Debug\net8.0-windows\ContadorLetraA.exe
+C:\Users\ningu\source\repos\ContadorLetraA\ContadorLetraA\bin\Debug\net8.0-windows\ContadorLetraA.deps.json
+C:\Users\ningu\source\repos\ContadorLetraA\ContadorLetraA\bin\Debug\net8.0-windows\ContadorLetraA.runtimeconfig.json
+C:\Users\ningu\source\repos\ContadorLetraA\ContadorLetraA\bin\Debug\net8.0-windows\ContadorLetraA.dll
+C:\Users\ningu\source\repos\ContadorLetraA\ContadorLetraA\bin\Debug\net8.0-windows\ContadorLetraA.pdb
+C:\Users\ningu\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0-windows\ContadorLetraA.Form1.resources
+C:\Users\ningu\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0-windows\ContadorLetraA.csproj.GenerateResource.cache
+C:\Users\ningu\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0-windows\ContadorLetraA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ningu\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0-windows\ContadorLetraA.AssemblyInfoInputs.cache
+C:\Users\ningu\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0-windows\ContadorLetraA.AssemblyInfo.cs
+C:\Users\ningu\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0-windows\ContadorLetraA.csproj.CoreCompileInputs.cache
+C:\Users\ningu\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0-windows\ContadorLetraA.dll
+C:\Users\ningu\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0-windows\refint\ContadorLetraA.dll
+C:\Users\ningu\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0-windows\ContadorLetraA.pdb
+C:\Users\ningu\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0-windows\ContadorLetraA.genruntimeconfig.cache
+C:\Users\ningu\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0-windows\ref\ContadorLetraA.dll
