@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{5A3B7717-95D3-4DCE-8795-31BACD45CE4C}|mauseforms\\mauseforms.csproj|solutionrelative:mauseforms\\forms\\mauseform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A3B7717-95D3-4DCE-8795-31BACD45CE4C}|mauseforms\\mauseforms.csproj|C:\\Users\\david\\source\\repos\\mauseforms\\mauseforms\\forms\\mauseform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A3B7717-95D3-4DCE-8795-31BACD45CE4C}|mauseforms\\mauseforms.csproj|solutionrelative:mauseforms\\forms\\mauseform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A3B7717-95D3-4DCE-8795-31BACD45CE4C}|mauseforms\\mauseforms.csproj|c:\\users\\david\\source\\repos\\mauseforms\\mauseforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A3B7717-95D3-4DCE-8795-31BACD45CE4C}|mauseforms\\mauseforms.csproj|solutionrelative:mauseforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3B7717-95D3-4DCE-8795-31BACD45CE4C}|mauseforms\\mauseforms.csproj|C:\\Users\\david\\source\\repos\\mauseforms\\mauseforms\\forms\\mauseform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A3B7717-95D3-4DCE-8795-31BACD45CE4C}|mauseforms\\mauseforms.csproj|solutionrelative:mauseforms\\forms\\mauseform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,14 +32,14 @@
               "RelativeDocumentMoniker": "mauseforms\\forms\\mauseForm1.cs",
               "ToolTip": "C:\\Users\\david\\source\\repos\\mauseforms\\mauseforms\\forms\\mauseForm1.cs",
               "RelativeToolTip": "mauseforms\\forms\\mauseForm1.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAUwCIAAAAjAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwBwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T21:59:27.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\mauseforms\\mauseforms\\Program.cs",
               "RelativeDocumentMoniker": "mauseforms\\Program.cs",
@@ -47,18 +47,20 @@
               "RelativeToolTip": "mauseforms\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T21:21:53.247Z"
+              "WhenOpened": "2024-08-13T21:21:53.247Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "mauseForm1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\mauseforms\\mauseforms\\forms\\mauseForm1.cs",
               "RelativeDocumentMoniker": "mauseforms\\forms\\mauseForm1.cs",
               "ToolTip": "C:\\Users\\david\\source\\repos\\mauseforms\\mauseforms\\forms\\mauseForm1.cs [Dise\u00F1o]",
               "RelativeToolTip": "mauseforms\\forms\\mauseForm1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T21:21:48.167Z"
+              "WhenOpened": "2024-08-13T21:21:48.167Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

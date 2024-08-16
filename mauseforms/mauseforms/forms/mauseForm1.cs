@@ -22,20 +22,16 @@ namespace mauseforms.forms
         {
             try
             {
-                // Obtener el valor del número 
                 double number = Convert.ToDouble(ingresarnumbertextBox1.Text);
 
-                // Validar que el número que el usuario ingreso
                 if (number < 0)
                 {
-                    MessageBox.Show("Por favor, ingresa un número positivo.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("ingresa un número positivo.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
                 }
 
-                // calcular la raiz
                 double result = Math.Sqrt(number);
 
-                //resultado que el usuario ingrese en el apartado
                 resultadoLabel1.Text = $"La raíz cuadrada de {number} es {result}";
             }
             catch (FormatException)
