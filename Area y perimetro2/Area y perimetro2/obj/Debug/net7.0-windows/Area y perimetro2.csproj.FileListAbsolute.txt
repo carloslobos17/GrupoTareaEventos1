@@ -1,0 +1,35 @@
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\bin\Debug\net7.0-windows\Area y perimetro2.exe
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\bin\Debug\net7.0-windows\Area y perimetro2.deps.json
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\bin\Debug\net7.0-windows\Area y perimetro2.runtimeconfig.json
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\bin\Debug\net7.0-windows\Area y perimetro2.dll
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\bin\Debug\net7.0-windows\Area y perimetro2.pdb
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area y perimetro2.csproj.AssemblyReference.cache
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area_y_perimetro2.Form1.resources
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area_y_perimetro2.Properties.Resources.resources
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area y perimetro2.csproj.GenerateResource.cache
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area y perimetro2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area y perimetro2.AssemblyInfoInputs.cache
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area y perimetro2.AssemblyInfo.cs
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area y perimetro2.csproj.CoreCompileInputs.cache
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area y perimetro2.dll
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\refint\Area y perimetro2.dll
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area y perimetro2.pdb
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area y perimetro2.genruntimeconfig.cache
+C:\Users\bidub\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\ref\Area y perimetro2.dll
+C:\Users\Jane\source\repos\Area y perimetro2\Area y perimetro2\bin\Debug\net7.0-windows\Area y perimetro2.exe
+C:\Users\Jane\source\repos\Area y perimetro2\Area y perimetro2\bin\Debug\net7.0-windows\Area y perimetro2.deps.json
+C:\Users\Jane\source\repos\Area y perimetro2\Area y perimetro2\bin\Debug\net7.0-windows\Area y perimetro2.runtimeconfig.json
+C:\Users\Jane\source\repos\Area y perimetro2\Area y perimetro2\bin\Debug\net7.0-windows\Area y perimetro2.dll
+C:\Users\Jane\source\repos\Area y perimetro2\Area y perimetro2\bin\Debug\net7.0-windows\Area y perimetro2.pdb
+C:\Users\Jane\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area_y_perimetro2.Form1.resources
+C:\Users\Jane\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area_y_perimetro2.Properties.Resources.resources
+C:\Users\Jane\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area y perimetro2.csproj.GenerateResource.cache
+C:\Users\Jane\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area y perimetro2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jane\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area y perimetro2.AssemblyInfoInputs.cache
+C:\Users\Jane\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area y perimetro2.AssemblyInfo.cs
+C:\Users\Jane\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area y perimetro2.csproj.CoreCompileInputs.cache
+C:\Users\Jane\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area y perimetro2.dll
+C:\Users\Jane\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\refint\Area y perimetro2.dll
+C:\Users\Jane\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area y perimetro2.pdb
+C:\Users\Jane\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\Area y perimetro2.genruntimeconfig.cache
+C:\Users\Jane\source\repos\Area y perimetro2\Area y perimetro2\obj\Debug\net7.0-windows\ref\Area y perimetro2.dll
