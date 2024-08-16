@@ -5,12 +5,8 @@ Carlos Eduardo Lobos Soriano U20220190:
 
 Orlin David Manzanares Salvaco U20230311:
 
-1. Crear un formulario que permita calcular la raíz cuadrada de un número.
-   Debe usar eventos de mouse para resolver el ejercicio.
-2. Crear un programa que permita determinar si la tecla que presionó el usuario es una consonante. 
-  Deberán mostrar un mensaje al usuario solamente en caso de que se digite una consonante y el mensaje debe contener lo siguiente:
-  "Se presionó la consonante x". En este caso "x" representa la tecla ingresada por el usuario, 
-  para el mensaje puede mostrarlo en un MessageBox o en un Label. Debe usar eventos de tecla. 
+1. Crear un formulario que permita calcular la raíz cuadrada de un número. Debe usar eventos de mouse para resolver el ejercicio.
+2. Crear un programa que permita determinar si la tecla que presionó el usuario es una consonante. Deberán mostrar un mensaje al usuario solamente en caso de que se digite una consonante y el mensaje debe contener lo siguiente: "Se presionó la consonante x". En este caso "x" representa la tecla ingresada por el usuario, para el mensaje puede mostrarlo en un MessageBox o en un Label. Debe usar eventos de tecla. 
 
 Diego Humberto Hernandez Flores U20230524:
 
