@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{447938A4-DB29-4517-B6CA-88131A06444A}|teclaforms\\teclaforms.csproj|solutionrelative:teclaforms\\forms\\teclaform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{447938A4-DB29-4517-B6CA-88131A06444A}|teclaforms\\teclaforms.csproj|C:\\Users\\david\\source\\repos\\teclaforms\\teclaforms\\forms\\teclaform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{447938A4-DB29-4517-B6CA-88131A06444A}|teclaforms\\teclaforms.csproj|solutionrelative:teclaforms\\forms\\teclaform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{447938A4-DB29-4517-B6CA-88131A06444A}|teclaforms\\teclaforms.csproj|c:\\users\\david\\source\\repos\\teclaforms\\teclaforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{447938A4-DB29-4517-B6CA-88131A06444A}|teclaforms\\teclaforms.csproj|solutionrelative:teclaforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{447938A4-DB29-4517-B6CA-88131A06444A}|teclaforms\\teclaforms.csproj|c:\\users\\david\\source\\repos\\teclaforms\\teclaforms\\teclaforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{447938A4-DB29-4517-B6CA-88131A06444A}|teclaforms\\teclaforms.csproj|solutionrelative:teclaforms\\teclaforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447938A4-DB29-4517-B6CA-88131A06444A}|teclaforms\\teclaforms.csproj|C:\\Users\\david\\source\\repos\\teclaforms\\teclaforms\\forms\\teclaform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{447938A4-DB29-4517-B6CA-88131A06444A}|teclaforms\\teclaforms.csproj|solutionrelative:teclaforms\\forms\\teclaform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,14 +36,14 @@
               "RelativeDocumentMoniker": "teclaforms\\forms\\teclaForm1.cs",
               "ToolTip": "C:\\Users\\david\\source\\repos\\teclaforms\\teclaforms\\forms\\teclaForm1.cs",
               "RelativeToolTip": "teclaforms\\forms\\teclaForm1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwCYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T15:03:11.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\teclaforms\\teclaforms\\Program.cs",
               "RelativeDocumentMoniker": "teclaforms\\Program.cs",
@@ -51,22 +51,24 @@
               "RelativeToolTip": "teclaforms\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T14:28:02.308Z"
+              "WhenOpened": "2024-08-14T14:28:02.308Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "teclaForm1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\teclaforms\\teclaforms\\forms\\teclaForm1.cs",
               "RelativeDocumentMoniker": "teclaforms\\forms\\teclaForm1.cs",
               "ToolTip": "C:\\Users\\david\\source\\repos\\teclaforms\\teclaforms\\forms\\teclaForm1.cs [Dise\u00F1o]",
               "RelativeToolTip": "teclaforms\\forms\\teclaForm1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T14:26:38.129Z"
+              "WhenOpened": "2024-08-14T14:26:38.129Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "teclaforms.csproj",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\teclaforms\\teclaforms\\teclaforms.csproj",
               "RelativeDocumentMoniker": "teclaforms\\teclaforms.csproj",
@@ -74,7 +76,8 @@
               "RelativeToolTip": "teclaforms\\teclaforms.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-14T14:25:08.684Z"
+              "WhenOpened": "2024-08-14T14:25:08.684Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -25,11 +25,21 @@ namespace teclaforms.forms
             if ("bcdfghjklmnpqrstvwxyz".Contains(tecla))
             {
                 
-                resultadoLabel2.Text = $"Se presionó la consonante {tecla}";
+                resultadoLabel2.Text = $"Se presionó la consonante: {tecla}";
+            }
+            if ("aeiuo".Contains(tecla))
+            {
+
+                resultadoLabel2.Text = $"Se presionó la vocal: {tecla}";
+            }
+            if ("123456789".Contains(tecla))
+            {
+
+                resultadoLabel2.Text = $"Se presionó el numero: {tecla}";
             }
             else 
             {
-                resultadoLabel2.Text = $"no es  consonante {tecla}";
+                resultadoLabel2.Text = $"no es  consonante: {tecla}";
             }
         }
     }

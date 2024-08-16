@@ -47,7 +47,7 @@
             consonanteTextBox1.Location = new Point(194, 95);
             consonanteTextBox1.Multiline = true;
             consonanteTextBox1.Name = "consonanteTextBox1";
-            consonanteTextBox1.Size = new Size(513, 147);
+            consonanteTextBox1.Size = new Size(513, 49);
             consonanteTextBox1.TabIndex = 1;
             consonanteTextBox1.KeyDown += consonanteTextBox1_KeyDown;
             // 
@@ -68,7 +68,7 @@
             Controls.Add(consonanteTextBox1);
             Controls.Add(label1);
             Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            Margin = new Padding(5, 5, 5, 5);
+            Margin = new Padding(5);
             Name = "teclaForm1";
             Text = "teclaForm1";
             ResumeLayout(false);
